@@ -1,0 +1,10 @@
+# Data Processing
+pandas
+numpy
+
+# SQL Connector
+sqlalchemy
+psycopg2-binary
+
+# Finance Calculations
+numpy-financial
